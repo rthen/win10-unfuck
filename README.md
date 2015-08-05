@@ -25,5 +25,5 @@ User Account Control (UAC) - Elevate Privilege Level
 
 -----------------
 
-Thanks to [Cuckmaster Flash](https://twitter.com/cobaltcuck) for the repo name :^)
+Thanks to [Cuckmaster Flash](https://twitter.com/cobaltcuck) for the repo name :^)  
 Other credits can be found in the individual files.
