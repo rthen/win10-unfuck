@@ -1,6 +1,6 @@
 @echo off
 
-REM https://twitter.com/EveningStarNM/status/628585117313691648
+REM by https://twitter.com/EveningStarNM/status/628585117313691648
 
 REM For Windows 10
 REM Save this script as "DelSvcs.cmd"
