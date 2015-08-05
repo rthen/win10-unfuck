@@ -1,3 +1,5 @@
+By https://twitter.com/EveningStarNM
+
 127.0.0.1 compatexchange.cloudapp.net
 127.0.0.1 a-0001.a-msedge.net
 127.0.0.1 choice.microsoft.com
