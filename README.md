@@ -5,7 +5,7 @@ Before running some  of these scripts, you probably need 'real' admin access on 
 
 ------------------
 
-**Warning:** Disabling UAC using this method will break all Metro Store app until enabled again, and the computer restarted.
+**Warning:** Disabling UAC using this method will break all Metro Store apps until enabled again, and the computer restarted.
 
 ------------------
 
