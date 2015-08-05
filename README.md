@@ -21,7 +21,7 @@ User Account Control (UAC) - Elevate Privilege Level
 
 ------------------
 
-**Another warning:** "`data-harvesting-services-removal.bat`" will be flagged as malware, since it tries to automatically alter the hosts file. You can either allow it, or add the hosts manually via the "`data-harvesting-hosts.txt`" file.
+**Another warning:** `data-harvesting-services-removal.bat` will be flagged as malware, since it tries to automatically alter the hosts file. You can either allow it, or add the hosts manually via the `data-harvesting-hosts.txt` file.
 
 -----------------
 
