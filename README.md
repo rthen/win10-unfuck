@@ -1,7 +1,7 @@
 # win10-unfuck
 Remove anti-privacy, anti-security, and general nuisance "features" from Windows 10.
 
-Before running any of these scripts, you probably need 'real' admin access on your machine:
+Before running some  of these scripts, you probably need 'real' admin access on your machine:
 
 ------------------
 
