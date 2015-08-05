@@ -11,12 +11,12 @@ Before running any of these scripts, you probably need 'real' admin access on yo
 
 User Account Control (UAC) - Elevate Privilege Level
 
-1. Type secpol.msc in the Start Menu and press Enter.  
-2. Double click on Local Policies then double click on Security Options.  
+1. Type *secpol.msc* in the Start Menu and press Enter.  
+2. Double click on *Local Policies* then double click on *Security Options*.  
 3. Scroll to the bottom to this entry -  
-	User Account Control: Run all administrators in Admin approval mode.  
+	*User Account Control: Run all administrators in Admin approval mode*.  
 	Double click that line.  
-4. Set it to disabled then press OK.  
+4. Set it to *disabled* then press OK.  
 5. Reboot.  
 
 ------------------
