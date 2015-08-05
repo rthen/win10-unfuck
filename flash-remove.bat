@@ -1,5 +1,7 @@
 @echo off
 
+REM original findings by https://twitter.com/thisisdey/status/628914599706914816
+
 echo FUCK OFF FLASH
 echo.
 echo This will remove the baked-in Adobe Flash from Windows 10.
