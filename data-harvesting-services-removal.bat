@@ -1,3 +1,7 @@
+@echo off
+
+REM https://twitter.com/EveningStarNM/status/628585117313691648
+
 REM For Windows 10
 REM Save this script as "DelSvcs.cmd"
 REM Run it as an administrator from an elevated command prompt.
@@ -11,3 +15,5 @@ sc delete diagtrack
 sc delete Wecsvc
 cd c:\ProgramData\Microsoft\Diagnosis\ETLLogs\Autologger
 cacls Autologger-Diagtrack-Listener.etl /d SYSTEM
+
+pause
