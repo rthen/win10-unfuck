@@ -1,5 +1,7 @@
 @echo off
 
+REM hosts discovered by https://twitter.com/EveningStarNM
+
 echo # MICROSOFT DATA HARVESTING >> "%windir%\system32\drivers\etc\hosts"
 echo 127.0.0.1 compatexchange.cloudapp.net >> "%windir%\system32\drivers\etc\hosts"
 echo 127.0.0.1 a-0001.a-msedge.net >> "%windir%\system32\drivers\etc\hosts"
