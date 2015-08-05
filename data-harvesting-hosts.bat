@@ -1,6 +1,6 @@
 @echo off
 
-REM hosts discovered by https://twitter.com/EveningStarNM
+REM Hosts list by https://twitter.com/EveningStarNM
 
 echo # MICROSOFT DATA HARVESTING                                 >> "%windir%\system32\drivers\etc\hosts"
 echo 127.0.0.1 www.msftncsi.com                                  >> "%windir%\system32\drivers\etc\hosts"
