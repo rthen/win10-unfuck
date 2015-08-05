@@ -1,4 +1,5 @@
 By https://twitter.com/EveningStarNM
+
 -------------------------------------------
 HOSTS Entries To Block Windows 10 Telemetry
 -------------------------------------------
