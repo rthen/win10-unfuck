@@ -12,7 +12,7 @@ wusa /uninstall /kb:2952664
 :: Compatibility update for Windows 8.1 and Windows 8
 wusa /uninstall /kb:2976978
 
-::Update that enables you to upgrade from Windows 7 to a later version of Windows 
+:: Update that enables you to upgrade from Windows 7 to a later version of Windows 
 wusa /uninstall /kb:2990214
 
 :: Update to Windows 7 SP1 for performance improvements
