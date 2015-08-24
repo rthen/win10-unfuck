@@ -1,5 +1,5 @@
-By  https://twitter.com/EveningStarNM/
-and https://twitter.com/bartblaze/
+URLs/IPs found by https://twitter.com/EveningStarNM/ and https://twitter.com/bartblaze/
+I only merged them into one alphabetical list, removed duplicates, null-routed IPv4 and IPv6.
 
 -------------------------------------------
 
