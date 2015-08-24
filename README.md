@@ -1,9 +1,11 @@
 # win10-unfuck
 Remove anti-privacy, anti-security, and general nuisance "features" from Windows 10.
 
-Before running some  of these scripts, you probably need 'real' admin access on your machine:
+**Do not run any of these scripts without understanding what they're doing. This repo isn't meant for the unexperienced 'end user'.**
 
 ------------------
+
+Before running some  of these scripts, you probably need 'real' admin access on your machine.
 
 **Warning:** Disabling UAC using this method will break all Metro Store apps until enabled again, and the computer restarted.
 
