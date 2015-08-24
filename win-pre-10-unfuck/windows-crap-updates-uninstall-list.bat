@@ -4,7 +4,7 @@
 :: http://www.sevenforums.com/general-discussion/367377-how-remove-windows-10-upgrade-updates-windows-7-8-a-30.html#post3127044
 
 :: Skype for Microsoft Update
-wusa /uninstall /kb:2876229
+:: wusa /uninstall /kb:2876229
 
 :: Compatibility update for upgrading Windows 7 
 wusa /uninstall /kb:2952664
