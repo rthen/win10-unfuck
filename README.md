@@ -3,7 +3,7 @@ Remove anti-privacy, anti-security, and general nuisance "features" from Windows
 
 This repository is a community effort. I'm mostly just collecting/organizing info, and writing some scripts to make them easier to use.
 
-**Do not run any of these scripts without understanding what they're doing. This repo isn't meant for the unexperienced user.**
+**Do not run any of these scripts without understanding what they're doing. This repo isn't meant for the inexperienced user.**
 
 ------------------
 
