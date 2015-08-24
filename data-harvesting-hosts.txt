@@ -3,20 +3,35 @@ and https://twitter.com/bartblaze/
 
 -------------------------------------------
 
-For a guide on how to disable several telemetry options already, visit this website:
-http://arstechnica.com/information-technology/2015/08/windows-10-doesnt-offer-much-privacy-by-default-heres-how-to-fix-it/
-Another resource is available at:
-https://fix10.isleaked.com/
+Info by bartblaze:
 
-Certain Windows updates in Windows 10 deliver extra "options" for telemetry on your machine. It is advisable to uninstall them:
-http://www.kernelmode.info/forum/viewtopic.php?f=11&t=4001
+For a guide on how to disable several telemetry options already, visit this website: http://arstechnica.com/information-technology/2015/08/windows-10-doesnt-offer-much-privacy-by-default-heres-how-to-fix-it/
+Another resource is available at: https://fix10.isleaked.com/
 
-For additional privacy, you can add these entries to your hosts file, which is located in:
-C:\Windows\system32\drivers\etc
+Certain Windows updates in Windows 10 deliver extra "options" for telemetry on your machine. It is advisable to uninstall them: http://www.kernelmode.info/forum/viewtopic.php?f=11&t=4001
+
+For additional privacy, you can add these entries to your hosts file, which is located in: C:\Windows\system32\drivers\etc
 
 You can edit and save the file by opening Notepad as Administrator (Press Windows key ("flag" icon), in the search bar enter "notepad", right-click on notepad and choose Run as Administrator - then browse to the hosts file location).
 
 Note: this does NOT block any Windows Updates.
+
+-------------------------------------------
+
+Info by EveningStarNM:
+
+NOTE: This is not all you must do to protect yourself from Microsoft's data harvesting in Windows 10. There are many settings in Windows and various apps and applications that you must also configure. You can find some good guides by searching the internet.
+
+Add these lines to HOSTS to block known Microsoft telemetry sites used by Windows 10 (v3.1)
+
+For instructions on how to edit the HOSTS file in Windows 10, see:
+https://www.petri.com/easily-edit-hosts-file-windows-10
+
+-------------------------------------------
+
+Advice by simplypeachy:
+
+Consequences of blocking some host names: https://github.com/10se1ucgo/DisableWinTracking/issues/22
 
 -------------------------------------------
 HOSTS Entries To Block Windows 10 Telemetry
