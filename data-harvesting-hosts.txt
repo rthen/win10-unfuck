@@ -36,12 +36,6 @@ Consequences of blocking some host names: https://github.com/10se1ucgo/DisableWi
 HOSTS Entries To Block Windows 10 Telemetry
 -------------------------------------------
 
-0.0.0.0 134.170.30.202
-0.0.0.0 137.116.81.24
-0.0.0.0 204.79.197.200
-0.0.0.0 23.218.212.69
-0.0.0.0 65.39.117.230
-0.0.0.0 65.55.108.23
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
@@ -93,12 +87,6 @@ HOSTS Entries To Block Windows 10 Telemetry
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 www.msftncsi.com
 
-:: 134.170.30.202
-:: 137.116.81.24
-:: 204.79.197.200
-:: 23.218.212.69
-:: 65.39.117.230
-:: 65.55.108.23
 :: a-0001.a-msedge.net
 :: az361816.vo.msecnd.net
 :: az512334.vo.msecnd.net
