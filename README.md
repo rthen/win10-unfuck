@@ -19,10 +19,6 @@ User Account Control (UAC) - Elevate Privilege Level
 4. Set it to *disabled* then press OK.  
 5. Reboot.  
 
-------------------
-
-**Another warning:** `data-harvesting-services-removal.bat` will be flagged as malware, since it tries to automatically alter the hosts file. You can either allow it, or add the hosts manually via the `data-harvesting-hosts.txt` file.
-
 -----------------
 
 Thanks to [Cuckmaster Flash](https://twitter.com/cobaltcuck) for the repo name :^)  
