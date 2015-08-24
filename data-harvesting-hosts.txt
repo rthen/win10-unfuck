@@ -20,8 +20,6 @@ Note: this does NOT block any Windows Updates.
 HOSTS Entries To Block Windows 10 Telemetry
 -------------------------------------------
 
-Add these lines to HOSTS to block known Microsoft telemetry sites used by Windows 10 (v3.1)
-
 0.0.0.0 134.170.30.202
 0.0.0.0 137.116.81.24
 0.0.0.0 204.79.197.200
