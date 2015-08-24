@@ -1,6 +1,8 @@
 # win10-unfuck
 Remove anti-privacy, anti-security, and general nuisance "features" from Windows 10.
 
+This repository is a community effort. I'm mostly just collecting/organizing info, and writing some scripts to make them easier to use.
+
 **Do not run any of these scripts without understanding what they're doing. This repo isn't meant for the unexperienced user.**
 
 ------------------
@@ -20,6 +22,12 @@ User Account Control (UAC) - Elevate Privilege Level
 	Double click that line.  
 4. Set it to *disabled* then press OK.  
 5. Reboot.  
+
+-----------------
+
+You might also take a look at these other fine ressources:
+- https://github.com/W4RH4WK/Debloat-Windows-10/
+- https://github.com/10se1ucgo/DisableWinTracking
 
 -----------------
 
