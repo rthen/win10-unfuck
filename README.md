@@ -5,9 +5,9 @@ Remove anti-privacy, anti-security, and general nuisance "features" from Windows
 
 ------------------
 
-Before running some  of these scripts, you probably need 'real' admin access on your machine. You can try it [the polite way](https://github.com/dfkt/win10-unfuck/issues/3), or you can do it the less popup-obnoxious way:
+Before running some  of these scripts, you probably need 'real' admin access on your machine. You can try it [the polite way](https://github.com/dfkt/win10-unfuck/issues/3), or you can *temporarily* do it the less popup-obnoxious way:
 
-**Warning:** Disabling UAC using this method will break all Metro Store apps until enabled again, and the computer restarted. Don't leave your machine vulnerable.
+**Warning:** Disabling UAC using this method will break all Metro Store apps until enabled again, and the computer restarted. Don't leave your machine vulnerable, revert the UAC setting as soon as you're done digging deep in Windows' innards.
 
 ------------------
 
