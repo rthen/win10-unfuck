@@ -33,7 +33,7 @@ wusa /uninstall /kb:3068708
 :: Update that adds telemetry points to consent.exe in Windows 8.1 and Windows 7
 wusa /uninstall /kb:3075249
 
-::Update for customer experience and diagnostic telemetry
+:: Update for customer experience and diagnostic telemetry
 wusa /uninstall /kb:3080149
 
 exit
