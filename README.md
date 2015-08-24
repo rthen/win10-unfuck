@@ -11,8 +11,6 @@ Before running some  of these scripts, you probably need 'real' admin access on 
 
 **Warning:** Disabling UAC using this method will break all Metro Store apps until enabled again, and the computer restarted. Don't leave your machine vulnerable, revert the UAC setting as soon as you're done digging deep in Windows' innards.
 
-------------------
-
 User Account Control (UAC) - Elevate Privilege Level
 
 1. Type *secpol.msc* in the Start Menu and press Enter.  
