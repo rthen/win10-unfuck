@@ -3,8 +3,8 @@
 :: https://freedomhacker.net/latest-windows-7-8-81-update-spy-windows-10-4568/
 :: http://www.sevenforums.com/general-discussion/367377-how-remove-windows-10-upgrade-updates-windows-7-8-a-30.html#post3127044
 
-:: Skype for Microsoft Update
-:: wusa /uninstall /kb:2876229
+:: THESE UPDATES WILL BE REINSTALLED AFTER A REBOOT.
+:: TO GET RID OF THEM FOR GOOD, DISABLE/HIDE THEM IN WINDOWS UPDATE AFTER UNINSTALL.
 
 :: Compatibility update for upgrading Windows 7 
 wusa /uninstall /kb:2952664
