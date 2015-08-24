@@ -24,8 +24,7 @@ NOTE: This is not all you must do to protect yourself from Microsoft's data harv
 
 Add these lines to HOSTS to block known Microsoft telemetry sites used by Windows 10 (v3.1)
 
-For instructions on how to edit the HOSTS file in Windows 10, see:
-https://www.petri.com/easily-edit-hosts-file-windows-10
+For instructions on how to edit the HOSTS file in Windows 10, see: https://www.petri.com/easily-edit-hosts-file-windows-10
 
 -------------------------------------------
 
