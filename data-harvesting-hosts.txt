@@ -5,6 +5,8 @@ and https://twitter.com/bartblaze/
 
 For a guide on how to disable several telemetry options already, visit this website:
 http://arstechnica.com/information-technology/2015/08/windows-10-doesnt-offer-much-privacy-by-default-heres-how-to-fix-it/
+Another resource is available at:
+https://fix10.isleaked.com/
 
 Certain Windows updates in Windows 10 deliver extra "options" for telemetry on your machine. It is advisable to uninstall them:
 http://www.kernelmode.info/forum/viewtopic.php?f=11&t=4001
