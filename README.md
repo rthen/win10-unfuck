@@ -25,7 +25,7 @@ User Account Control (UAC) - Elevate Privilege Level
 
 You might also take a look at these other fine ressources:
 - https://github.com/W4RH4WK/Debloat-Windows-10/
-- https://github.com/10se1ucgo/DisableWinTracking
+- https://github.com/10se1ucgo/DisableWinTracking/
 
 -----------------
 
