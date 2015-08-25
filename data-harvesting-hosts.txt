@@ -1,5 +1,5 @@
-URLs/IPs found by https://twitter.com/EveningStarNM/ and https://twitter.com/bartblaze/
-I only merged them into one alphabetical list, removed duplicates, null-routed IPv4 and IPv6.
+URLs/IPs found by @EveningStarNM, @bartblaze, and Microsoft Engineer !JeCZI7VUg2
+Merged into one alphabetical list, removed duplicates, null-routed IPv4 and IPv6.
 
 -------------------------------------------
 
@@ -37,6 +37,23 @@ HOSTS Entries To Block Windows 10 Telemetry
 -------------------------------------------
 
 0.0.0.0 a-0001.a-msedge.net
+0.0.0.0 a-0002.a-msedge.net
+0.0.0.0 a-0003.a-msedge.net
+0.0.0.0 a-0004.a-msedge.net
+0.0.0.0 a-0005.a-msedge.net
+0.0.0.0 a-0006.a-msedge.net
+0.0.0.0 a-0007.a-msedge.net
+0.0.0.0 a-0008.a-msedge.net
+0.0.0.0 a-0009.a-msedge.net
+0.0.0.0 a-msedge.net
+0.0.0.0 a.ads1.msn.com
+0.0.0.0 a.ads2.msn.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 adnexus.net
+0.0.0.0 adnxs.com
+0.0.0.0 ads.msn.com
+0.0.0.0 ads1.msads.net
+0.0.0.0 ads1.msn.com
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
 0.0.0.0 choice.microsoft.com
@@ -47,12 +64,14 @@ HOSTS Entries To Block Windows 10 Telemetry
 0.0.0.0 cs1.wpc.v0cdn.net
 0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 diagnostics.support.microsoft.com
+0.0.0.0 fe1.update.microsoft.com.akadns.net
 0.0.0.0 fe2.update.microsoft.com.akadns.net
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 feedback.windows.com
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i1.services.social.microsoft.com.nsatc.net
+0.0.0.0 msedge.net
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 pre.footprintpredict.com
@@ -66,6 +85,7 @@ HOSTS Entries To Block Windows 10 Telemetry
 0.0.0.0 sqm.df.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 statsfe1.update.microsoft.com.akadns.net
 0.0.0.0 statsfe1.ws.microsoft.com
 0.0.0.0 statsfe2.update.microsoft.com.akadns.net
 0.0.0.0 statsfe2.ws.microsoft.com
@@ -88,6 +108,23 @@ HOSTS Entries To Block Windows 10 Telemetry
 0.0.0.0 www.msftncsi.com
 
 :: a-0001.a-msedge.net
+:: a-0002.a-msedge.net
+:: a-0003.a-msedge.net
+:: a-0004.a-msedge.net
+:: a-0005.a-msedge.net
+:: a-0006.a-msedge.net
+:: a-0007.a-msedge.net
+:: a-0008.a-msedge.net
+:: a-0009.a-msedge.net
+:: a-msedge.net
+:: a.ads1.msn.com
+:: a.ads2.msn.com
+:: ad.doubleclick.net
+:: adnexus.net
+:: adnxs.com
+:: ads.msn.com
+:: ads1.msads.net
+:: ads1.msn.com
 :: az361816.vo.msecnd.net
 :: az512334.vo.msecnd.net
 :: choice.microsoft.com
@@ -98,12 +135,14 @@ HOSTS Entries To Block Windows 10 Telemetry
 :: cs1.wpc.v0cdn.net
 :: df.telemetry.microsoft.com
 :: diagnostics.support.microsoft.com
+:: fe1.update.microsoft.com.akadns.net
 :: fe2.update.microsoft.com.akadns.net
 :: feedback.microsoft-hohm.com
 :: feedback.search.microsoft.com
 :: feedback.windows.com
 :: i1.services.social.microsoft.com
 :: i1.services.social.microsoft.com.nsatc.net
+:: msedge.net
 :: oca.telemetry.microsoft.com
 :: oca.telemetry.microsoft.com.nsatc.net
 :: pre.footprintpredict.com
@@ -117,6 +156,7 @@ HOSTS Entries To Block Windows 10 Telemetry
 :: sqm.df.telemetry.microsoft.com
 :: sqm.telemetry.microsoft.com
 :: sqm.telemetry.microsoft.com.nsatc.net
+:: statsfe1.update.microsoft.com.akadns.net
 :: statsfe1.ws.microsoft.com
 :: statsfe2.update.microsoft.com.akadns.net
 :: statsfe2.ws.microsoft.com
