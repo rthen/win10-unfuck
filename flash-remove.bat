@@ -2,7 +2,7 @@
 
 REM original findings by https://twitter.com/deycrypt/status/628914599706914816
 
-echo Die Flash Die!
+echo FUCK OFF FLASH
 echo.
 echo This will remove the baked-in Adobe Flash from Windows 10.
 echo Run this script as admin.
