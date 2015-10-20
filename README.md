@@ -31,3 +31,5 @@ You might also take a look at these other fine ressources:
 
 Thanks to [Cuckmaster Flash](https://twitter.com/cobaltcuck) for the repo name :^)  
 Other credits can be found in the individual files.
+
+Yay, this repo is famous: http://de.engadget.com/2015/08/17/feuer-mit-feuer-unfuck-dein-windows-10/
