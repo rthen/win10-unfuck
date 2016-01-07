@@ -10,13 +10,16 @@ echo.
 
 pause
 
-:: Compatibility update for upgrading Windows 7 
+:: Update for Windows Activation Technologies
+wusa /uninstall /kb:971033 /norestart
+
+:: Compatibility update for upgrading Windows 7
 wusa /uninstall /kb:2952664 /norestart
 
 :: Compatibility update for Windows 8.1 and Windows 8
 wusa /uninstall /kb:2976978 /norestart
 
-:: Update that enables you to upgrade from Windows 7 to a later version of Windows 
+:: Update that enables you to upgrade from Windows 7 to a later version of Windows
 wusa /uninstall /kb:2990214 /norestart
 
 :: Update to Windows 7 SP1 for performance improvements
@@ -25,7 +28,7 @@ wusa /uninstall /kb:3021917 /norestart
 :: Update for customer experience and diagnostic telemetry
 wusa /uninstall /kb:3022345 /norestart
 
-:: Update installs Get Windows 10 app in Windows 8.1 and Windows 7 SP1 
+:: Update installs Get Windows 10 app in Windows 8.1 and Windows 7 SP1
 wusa /uninstall /kb:3035583 /norestart
 
 :: Update that enables you to upgrade from Windows 8.1 to Windows 10
@@ -39,6 +42,9 @@ wusa /uninstall /kb:3075249 /norestart
 
 :: Update for customer experience and diagnostic telemetry
 wusa /uninstall /kb:3080149 /norestart
+
+:: Windows Update Client for Windows 7 and Windows Server 2008 R2: December 2015
+wusa /uninstall /kb:3112343 /norestart
 
 cls
 echo Please reboot to finish uninstallation.
