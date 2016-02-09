@@ -3,7 +3,7 @@
 title Check and uninstall Windows Updates
 
 :: change the following line to point to your browser of choice
-set browser="C:\Program Files\Firefox Developer Edition\firefox.exe"
+set browser="C:\Program Files\Mozilla Firefox\firefox.exe"
 
 :scriptyes
 set /p "kbnumber=Enter Windows Update number (without KB): "
