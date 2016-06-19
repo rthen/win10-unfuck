@@ -24,6 +24,10 @@ echo kb:2976978 - Compatibility update for Windows 8.1 and Windows 8
 wmic qfe where hotfixid='kb2976978'
 wusa /uninstall /kb:2976978 /norestart /quiet
 
+echo kb:2977759 - Compatibility update for Windows 7 RTM
+wmic qfe where hotfixid='kb2977759'
+wusa /uninstall /kb:2977759 /norestart /quiet
+
 echo kb:2990214 - Update that enables you to upgrade from Windows 7 to a later version of Windows
 wmic qfe where hotfixid='kb2990214'
 wusa /uninstall /kb:2990214 /norestart /quiet
