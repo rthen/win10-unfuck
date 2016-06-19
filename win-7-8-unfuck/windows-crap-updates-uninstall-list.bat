@@ -60,6 +60,10 @@ echo kb:3112343 - Windows Update Client for Windows 7 and Windows Server 2008 R2
 wmic qfe where hotfixid='kb3112343'
 wusa /uninstall /kb:3112343 /norestart /quiet
 
+echo kb:3150513 - May 2016 Compatibility Update for Windows 
+wmic qfe where hotfixid='kb3150513'
+wusa /uninstall /kb:3150513 /norestart /quiet
+
 echo ---------------------------------------
 echo.
 echo Please reboot to finish uninstallation.
