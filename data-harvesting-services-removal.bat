@@ -9,10 +9,8 @@ REM It deletes services that Microsoft uses to harvest some of your data.
 
 net stop DiagTrack
 net stop dmwappushservice
-net stop Wecsvc
 sc delete dmwappushservice
 sc delete diagtrack
-sc delete Wecsvc
 cd c:\ProgramData\Microsoft\Diagnosis\ETLLogs\Autologger
 cacls Autologger-Diagtrack-Listener.etl /d SYSTEM
 
